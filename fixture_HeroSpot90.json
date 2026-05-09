@@ -1,0 +1,39 @@
+{
+    "marque": "Varytec",
+    "name": "Hero Spot 90",
+    "channels": 16,
+    "map": {
+        "pan": 1,
+        "pan_fine": 2,
+        "tilt": 3,
+        "tilt_fine": 4,
+        "variateur": 6,
+        "obturateur_strobe": 7,
+        "couleur": 8
+    },
+    "defaults": {
+        "1": 127,
+        "2": 127,
+        "3": 127,
+        "4": 127,
+        "6": 100,
+        "7": 255,
+        "8": 4
+    },
+    "color_map": {
+        "4": "Blanc",
+        "22": "Rouge",
+        "40": "Orange",
+        "58": "Vert",
+        "76": "Bleu",
+        "94": "Jaune",
+        "112": "Bleu clair",
+        "130": "Violet"
+    },
+    "obturateur_strobe_map": {
+        "4": "Fermé",
+        "5..250": "Stroboscope",
+        "255": "Ouvert"
+    }
+
+}

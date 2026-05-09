@@ -1,0 +1,52 @@
+{
+    "marque": "JBSYSTEMS",
+    "name": "Challenger BSW",
+    "channels": 20,
+    "map":
+    {
+        "pan": 1,
+        "pan_fine": 2,
+        "tilt": 3,
+        "tilt_fine": 4,
+        "couleur": 9,
+        "faisceau": 13,
+        "focus": 16,
+        "obturateur_strobe": 17,
+        "variateur": 18
+    },
+    "defaults":
+    {
+        "1": 127,
+        "2": 127,
+        "3": 127,
+        "4": 127,
+        "9": 15,
+        "13": 63,
+        "16": 255,
+        "17": 15,
+        "18": 50
+    },
+    "color_map":
+    {
+        "15": "Blanc",
+        "21": "Rouge",
+        "27": "Orange",
+        "39": "Vert",
+        "45": "Bleu foncé",
+        "51": "Magneta",
+        "57": "Bleu clair",
+        "63": "Rose"
+    },
+    "beam_map":
+    {
+        "63": "Beam",
+        "127": "Spot",
+        "255": "Wash"
+    },
+    "obturateur_strobe_map": {
+        "0": "Fermé",
+        "15": "Ouvert",
+        "16..131": "Stroboscope",
+        
+    }
+}
