@@ -46,7 +46,6 @@
     "obturateur_strobe_map": {
         "0": "Fermé",
         "15": "Ouvert",
-        "16..131": "Stroboscope",
-        
+        "16..131": "Stroboscope"
     }
 }
