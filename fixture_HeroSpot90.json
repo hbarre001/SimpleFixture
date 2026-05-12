@@ -7,6 +7,7 @@
         "pan_fine": 2,
         "tilt": 3,
         "tilt_fine": 4,
+        "vitesse_pan_tilt": 5,
         "variateur": 6,
         "obturateur_strobe": 7,
         "couleur": 8
@@ -16,6 +17,7 @@
         "2": 127,
         "3": 127,
         "4": 127,
+        "5": 0,
         "6": 100,
         "7": 255,
         "8": 4
